@@ -2,7 +2,7 @@ Physics Simulations in C#
 
 This repository presents a collection of interactive physics simulations implemented in C# (Windows Forms). Each simulation visualizes a fundamental physical phenomenon — combining mathematical modeling, numerical methods, and computer graphics.
 
-CPS file is main class
+https://github.com/FatimaIjazOfficial/Computational-Physics_Simulations/blob/master/CPS/Form1.cs file is main class
 
 All projects have been designed for educational and demonstrative purposes, helping learners visualize equations of motion, understand physical laws, and explore numerical techniques like Euler and Euler-Cromer integration.
 
