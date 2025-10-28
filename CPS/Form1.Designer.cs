@@ -493,7 +493,11 @@
             this.zVsXToolStripMenuItem,
             this.xVsYToolStripMenuItem,
             this.zVsYToolStripMenuItem,
+            this.xVsTToolStripMenuItem,
+            this.xVsYToolStripMenuItem,
             this.xVsZToolStripMenuItem,
+            this.yVsTToolStripMenuItem,
+            this.yVsXToolStripMenuItem,
             this.yVsZToolStripMenuItem});
             this.lorentzModelToolStripMenuItem.Name = "lorentzModelToolStripMenuItem";
             this.lorentzModelToolStripMenuItem.Size = new System.Drawing.Size(185, 22);
